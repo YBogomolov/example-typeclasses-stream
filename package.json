@@ -1,0 +1,17 @@
+{
+  "name": "typeclasses",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yuriy Bogomolov <yuriy.bogomolov@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "fp-ts": "^2.5.3",
+    "fp-ts-contrib": "^0.1.14",
+    "tslint": "^6.1.0",
+    "typescript": "^3.8.3"
+  }
+}
